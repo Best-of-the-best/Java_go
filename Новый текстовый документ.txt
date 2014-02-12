@@ -1,3 +1,7 @@
 I was here. And i drunk beer ^_^
+<<<<<<< HEAD
 ilya
 rogok
+=======
+ilya
+>>>>>>> 621c35da8e1fd0f025bd9baabec8bc9c217fe943
