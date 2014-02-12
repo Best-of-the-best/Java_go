@@ -1,5 +1,5 @@
 // blok 1
-	//походу, в джава нет подключаемых библиотек
+
 
 //blok 2--------------------------rogok
 suffer bitch
@@ -18,9 +18,3 @@ class wtf{
 
 
 //blok 4----------------------app
-class app{
-	public static void main(string[] args){
-			//to do something
-	}//конец main
-}//конец app
-	
